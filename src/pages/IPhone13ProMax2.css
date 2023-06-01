@@ -1,0 +1,244 @@
+.iphone-13-pro-max-2-child {
+  position: absolute;
+  top: 69px;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  width: 428px;
+  height: 57px;
+}
+.reserve-a-table {
+  position: absolute;
+  top: 79px;
+  left: 101px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+}
+.contact-information {
+  position: absolute;
+  top: 291px;
+  left: 15px;
+  font-size: var(--font-size-xl);
+  font-weight: 800;
+}
+.first-name,
+.firstname-child {
+  align-self: stretch;
+  position: relative;
+}
+.firstname-child {
+  background-color: var(--color-whitesmoke-100);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  height: 30px;
+}
+.e-mail,
+.firstname,
+.lastname {
+  position: absolute;
+  top: 332px;
+  left: 14px;
+  width: 189px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.e-mail,
+.lastname {
+  left: 220px;
+}
+.e-mail {
+  top: 399px;
+  left: 15px;
+  width: 205px;
+}
+.phoneno-child,
+.phoneno-inner,
+.phoneno-item {
+  position: absolute;
+  top: 21px;
+  left: 0;
+  background-color: var(--color-whitesmoke-100);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 49px;
+  height: 30px;
+}
+.phoneno-inner,
+.phoneno-item {
+  left: 64px;
+}
+.phoneno-inner {
+  left: 128px;
+  width: 61px;
+}
+.phone-number {
+  position: absolute;
+  top: 0;
+  left: 1px;
+}
+.is-required,
+.phoneno {
+  position: absolute;
+  left: 15px;
+}
+.phoneno {
+  top: 466px;
+  width: 189px;
+  height: 51px;
+}
+.is-required {
+  top: 533px;
+  font-size: var(--font-size-smi);
+  font-weight: 500;
+}
+.date-mdy {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+}
+.frame-child {
+  position: relative;
+  background-color: var(--color-gainsboro-200);
+  border-right: 1px solid var(--color-black);
+  border-bottom: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 6px;
+  height: 6px;
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+}
+.frame-div,
+.frame-inner {
+  flex: 1;
+  background-color: var(--color-whitesmoke-200);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  height: 30px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-3xs) 3.0502333641052246px var(--padding-3xs)
+    73.7071304321289px;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frame-div {
+  padding: var(--padding-3xs) 3.0502333641052246px var(--padding-3xs)
+    57.707122802734375px;
+}
+.frame,
+.mdy {
+  flex-direction: row;
+  align-items: center;
+}
+.frame {
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.mdy {
+  position: absolute;
+  top: 147px;
+  left: 15px;
+  width: 396px;
+  gap: 7px;
+  font-size: var(--font-size-mid);
+}
+.mdy,
+.no-of-diners,
+.time,
+.time-inner {
+  display: flex;
+  justify-content: flex-start;
+}
+.time-inner {
+  flex: 1;
+  background-color: var(--color-whitesmoke-200);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  height: 30px;
+  flex-direction: column;
+  padding: var(--padding-3xs) 3.0502333641052246px var(--padding-3xs)
+    73.70712280273438px;
+  align-items: flex-end;
+}
+.no-of-diners,
+.time {
+  position: absolute;
+  top: 195px;
+  left: 15px;
+  width: 143px;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+  font-size: var(--font-size-mid);
+}
+.no-of-diners {
+  left: 221px;
+  width: 190px;
+  align-items: flex-start;
+  gap: 13px;
+}
+.is-required1 {
+  position: absolute;
+  top: 246px;
+  left: 16px;
+  font-size: var(--font-size-smi);
+  font-weight: 500;
+}
+.submit1 {
+  position: absolute;
+  height: 73.44%;
+  width: 100%;
+  top: 26.56%;
+  left: 0;
+  display: inline-block;
+}
+.submit {
+  position: absolute;
+  top: 596px;
+  left: 161px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-yellow-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 120px;
+  height: 64px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.iphone-13-pro-max-2-inner,
+.iphone-13-pro-max-2-item {
+  position: absolute;
+  top: 8px;
+  left: 14px;
+  border-radius: 50%;
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+.iphone-13-pro-max-2-inner {
+  left: 360px;
+}
+.logo-icon2 {
+  position: absolute;
+  top: 10px;
+  left: 136px;
+  width: 147.5px;
+  height: 40px;
+  object-fit: cover;
+}
+.iphone-13-pro-max-2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 926px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-karla);
+}

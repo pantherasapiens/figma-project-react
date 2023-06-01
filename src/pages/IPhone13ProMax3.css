@@ -1,0 +1,121 @@
+.iphone-13-pro-max-3-child {
+  position: absolute;
+  top: 69px;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  width: 428px;
+  height: 57px;
+}
+.reserve-confirmation {
+  position: absolute;
+  top: 79px;
+  left: 53px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+}
+.span {
+  font-weight: 500;
+}
+.name,
+.phone-no-container {
+  position: absolute;
+  top: 235px;
+  left: 16px;
+}
+.name {
+  top: 167px;
+}
+.date-and-time-container,
+.e-mail-container {
+  position: absolute;
+  top: 269px;
+  left: 16px;
+}
+.e-mail-container {
+  top: 201px;
+}
+.no-of-diners-container,
+.table-no-container {
+  position: absolute;
+  top: 303px;
+  left: 16px;
+}
+.no-of-diners-container {
+  top: 337px;
+}
+.edit1 {
+  height: 100%;
+  width: 100%;
+  top: 21.88%;
+  left: 0;
+  display: inline-block;
+}
+.confirm1,
+.edit,
+.edit1 {
+  position: absolute;
+}
+.edit {
+  top: 425px;
+  left: 53px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-yellow-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 120px;
+  height: 64px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: snow;
+}
+.confirm1 {
+  height: 100%;
+  width: 100%;
+  top: 26.56%;
+  left: 0;
+  display: inline-block;
+}
+.confirm {
+  position: absolute;
+  top: 425px;
+  left: 262px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-yellow-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 120px;
+  height: 64px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: #fffefe;
+}
+.iphone-13-pro-max-3-inner,
+.iphone-13-pro-max-3-item {
+  position: absolute;
+  top: 11px;
+  left: 16px;
+  border-radius: 50%;
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+.iphone-13-pro-max-3-inner {
+  left: 362px;
+}
+.logo-icon1 {
+  position: absolute;
+  top: 13px;
+  left: 138px;
+  width: 147.5px;
+  height: 40px;
+  object-fit: cover;
+}
+.iphone-13-pro-max-3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 926px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-karla);
+}

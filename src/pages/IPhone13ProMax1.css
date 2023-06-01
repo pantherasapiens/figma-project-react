@@ -1,0 +1,274 @@
+.iphone-13-pro-max-1-child {
+  position: absolute;
+  top: 57px;
+  left: -2px;
+  background-color: var(--color-gray-100);
+  width: 428px;
+  height: 344px;
+}
+.iphone-13-pro-max-1-child1,
+.iphone-13-pro-max-1-child2,
+.iphone-13-pro-max-1-child3,
+.iphone-13-pro-max-1-inner,
+.iphone-13-pro-max-1-item {
+  position: absolute;
+  top: 481px;
+  left: 11px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-silver);
+  width: 66px;
+  height: 32.8px;
+}
+.iphone-13-pro-max-1-child1,
+.iphone-13-pro-max-1-child2,
+.iphone-13-pro-max-1-child3,
+.iphone-13-pro-max-1-inner {
+  left: 96px;
+}
+.iphone-13-pro-max-1-child1,
+.iphone-13-pro-max-1-child2,
+.iphone-13-pro-max-1-child3 {
+  top: 483px;
+  left: 181px;
+}
+.iphone-13-pro-max-1-child2,
+.iphone-13-pro-max-1-child3 {
+  left: 266px;
+}
+.iphone-13-pro-max-1-child3 {
+  left: 351px;
+}
+.chicago,
+.little-lemon {
+  position: absolute;
+  left: 15px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.little-lemon {
+  top: 73px;
+  font-size: 40px;
+  color: #e5ea00;
+}
+.chicago {
+  top: 117px;
+  font-size: var(--font-size-13xl);
+  color: #e5e5e5;
+}
+.order-for-delivery {
+  position: absolute;
+  top: 437px;
+  left: 14px;
+  font-size: 22px;
+  text-transform: capitalize;
+}
+.iphone-13-pro-max-1-child4,
+.iphone-13-pro-max-1-child5,
+.line-div {
+  position: absolute;
+  top: 552.5px;
+  left: -2.5px;
+  border-top: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 429px;
+  height: 1px;
+}
+.iphone-13-pro-max-1-child4,
+.iphone-13-pro-max-1-child5 {
+  top: 722.5px;
+  left: -0.5px;
+}
+.iphone-13-pro-max-1-child5 {
+  top: 892.5px;
+  left: 1.5px;
+}
+.bruschetta,
+.div,
+.div1,
+.greek-salad {
+  position: absolute;
+  top: 571px;
+  left: 14px;
+  text-transform: capitalize;
+}
+.bruschetta,
+.div,
+.div1 {
+  top: 693px;
+}
+.bruschetta,
+.div1 {
+  top: 861px;
+  left: 18px;
+}
+.bruschetta {
+  top: 732px;
+}
+.iphone-13-pro-max-1-child6,
+.iphone-13-pro-max-1-child7,
+.rectangle-icon {
+  position: absolute;
+  top: 571px;
+  left: 319px;
+  width: 95px;
+  height: 96px;
+  object-fit: cover;
+}
+.iphone-13-pro-max-1-child6,
+.iphone-13-pro-max-1-child7 {
+  top: 748px;
+  left: 320px;
+}
+.iphone-13-pro-max-1-child7 {
+  top: 174px;
+  left: 240px;
+  width: 174px;
+  height: 154px;
+}
+.reserve-a-table2 {
+  position: absolute;
+  height: 88.1%;
+  width: 71.05%;
+  top: 14.29%;
+  left: 14.21%;
+  display: inline-block;
+}
+.reserve-a-table1 {
+  position: absolute;
+  top: 346px;
+  left: 11px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-yellow-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 190px;
+  height: 42px;
+  text-align: center;
+  color: var(--color-white);
+}
+.dessert,
+.drink,
+.lunch,
+.mains,
+.starter {
+  position: absolute;
+  top: 486px;
+  left: 14px;
+  text-align: center;
+  display: inline-block;
+  width: 58px;
+  height: 35px;
+}
+.dessert,
+.drink,
+.mains,
+.starter {
+  top: 487px;
+  left: 102px;
+}
+.dessert,
+.drink,
+.starter {
+  top: 489px;
+  left: 173px;
+  width: 81px;
+  height: 33px;
+}
+.drink,
+.starter {
+  left: 269px;
+  width: 60px;
+  height: 35px;
+}
+.drink {
+  top: 490px;
+  left: 362px;
+  width: 48px;
+}
+.ellipse-icon {
+  position: absolute;
+  top: 520px;
+  left: 121px;
+  width: 20px;
+  height: 20px;
+}
+.iphone-13-pro-max-1-child8,
+.iphone-13-pro-max-1-child9 {
+  position: absolute;
+  top: 520px;
+  left: 206px;
+  width: 20px;
+  height: 20px;
+}
+.iphone-13-pro-max-1-child9 {
+  left: 289px;
+}
+.iphone-13-pro-max-1-child10,
+.iphone-13-pro-max-1-child11 {
+  position: absolute;
+  top: 520px;
+  left: 376px;
+  width: 20px;
+  height: 20px;
+}
+.iphone-13-pro-max-1-child11 {
+  left: 34px;
+}
+.iphone-13-pro-max-1-child12,
+.iphone-13-pro-max-1-child13 {
+  position: absolute;
+  top: 6px;
+  left: 15px;
+  border-radius: 50%;
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+.iphone-13-pro-max-1-child13 {
+  left: 361px;
+}
+.logo-icon3 {
+  position: absolute;
+  top: 8px;
+  left: 137px;
+  width: 147.5px;
+  height: 40px;
+  object-fit: cover;
+}
+.we-are-a {
+  position: absolute;
+  top: 180px;
+  left: 19px;
+  font-weight: 500;
+  color: var(--color-white);
+  display: inline-block;
+  width: 187px;
+  height: 140px;
+}
+.our-bruschetta-is,
+.the-famous-greek {
+  position: absolute;
+  top: 589px;
+  left: 15px;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray);
+  display: inline-block;
+  width: 254px;
+  height: 46px;
+}
+.our-bruschetta-is {
+  top: 753px;
+  left: 19px;
+  text-transform: capitalize;
+  width: 290px;
+  height: 98px;
+}
+.iphone-13-pro-max-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 926px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-karla);
+}
